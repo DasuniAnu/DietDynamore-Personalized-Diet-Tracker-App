@@ -1,0 +1,37 @@
+<resources>
+    <!-- sign in -->
+    <string name="app_name">labexam3</string>
+    <string name="Signin">Sign in</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="signin">Sign In</string>
+    <!-- profile -->
+    <string name="profile_name">Dasuni Anutthara</string>
+    <string name="profile_username">dasunii_3</string>
+    <string name="status_message">Examine your diet for a balanced life</string>
+    <string name="email_label">Email: danuththara81@gmail.com</string>
+    <string name="phone_label">Phone: 0704563787</string>
+    <string name="dob_label">DOB: 2000/11/29</string>
+    <string name="address_label">Address: Maharagama</string>
+    <string name="logout_button_text">LOG OUT</string>
+    <!-- item -->
+    <string name="task_name">Task Name</string>
+    <string name="task_time">12:00 PM</string>
+    <string name="task_date">Date</string>
+    <string name="task_description">Task Description</string>
+    <string name="edit_button">Edit</string>
+    <string name="delete_button">Delete</string>
+    <!-- forms-->
+    <string name="meal_header">Add Your Upcoming Meals Here!</string>
+    <string name="meal_name_label">Meal Name</string>
+    <string name="meal_date_label">Meal Date</string>
+    <string name="meal_time_label">Meal Time</string>
+    <string name="meal_description_label">Meal Description</string>
+    <string name="meal_name_hint">Enter Meal Name here</string>
+    <string name="meal_date_hint">Enter Date here</string>
+    <string name="meal_time_hint">Enter time here</string>
+    <string name="meal_description_hint">Enter Ingredients</string>
+    <string name="save">Save</string>
+    <string name="My_diets">My Diets</string>
+</resources>
